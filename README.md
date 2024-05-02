@@ -34,7 +34,7 @@ X_train, X_test = train_test_split(
 * Submission 1 - Version 1: | Fast Baseline - 1 min time limit | 0.1 training sample | `optimize_deployment` preset | compute: Kaggle notebook
 
 ##### Notebooks
-I started with Kaggle notebooks with baselines (versions 1-3) [AutoGluon PS4E05 Baseline🤖🦾](https://www.kaggle.com/code/mustafakeser4/autogluon-ps4e05-baseline):
+I started with Kaggle notebooks with baselines (versions 1-3) [AutoGluon PS4E05 Baseline 🤖🦾 kaggle](https://www.kaggle.com/code/mustafakeser4/autogluon-ps4e05-baseline):
 
 
 ##### Compute 
@@ -57,7 +57,7 @@ LB score: 0.83755, X_test validate:
 * Submission 2 - Version 2: | all dataset - 4h time limit - `optimize_deployment` preset | compute: Kaggle notebook
 
 ##### Notebooks
-Version 2 - [AutoGluon PS4E05 Baseline🤖🦾](https://www.kaggle.com/code/mustafakeser4/autogluon-ps4e05-baseline):
+Version 2 - [AutoGluon PS4E05 Baseline🤖🦾 kaggle](https://www.kaggle.com/code/mustafakeser4/autogluon-ps4e05-baseline):
 
 ##### Compute 
 Kaggle Notebook v4 30gb
@@ -82,7 +82,7 @@ LB score: 0.85916, X_test validate:
 * Submission 3 - Version 3: | all dataset - 4h time limit - `best_quality` preset | compute: Kaggle notebook
 
 ##### Notebooks
-Version 3 - [AutoGluon PS4E05 Baseline🤖🦾](https://www.kaggle.com/code/mustafakeser4/autogluon-ps4e05-baseline):
+Version 3 - [AutoGluon PS4E05 Baseline🤖🦾 kaggle](https://www.kaggle.com/code/mustafakeser4/autogluon-ps4e05-baseline):
 
 ##### Compute 
 Kaggle Notebook v4 30gb
@@ -105,9 +105,9 @@ LB score: 0.86066, X_test validate:
 
 ##### Notebooks
 
-Notebook of Submission 4 - Vertex AI: [FE + AutoGluon PS4E05 🦾🤖 5h](submission-4-autogluon-fe-5h.ipynb)
+Notebook of Submission 4 - Vertex AI: [FE + AutoGluon PS4E05 🦾🤖 5h vertex ai](submission-4-autogluon-fe-5h.ipynb)
 
-Notebook of Submission 4 - Kaggle: [FE + AutoGluon PS4E05 🦾🤖 5h](https://www.kaggle.com/code/mustafakeser4/fe-autogluon-ps4e05-5h)
+Notebook of Submission 4 - Kaggle: [FE + AutoGluon PS4E05 🦾🤖 5h kaggle](https://www.kaggle.com/code/mustafakeser4/fe-autogluon-ps4e05-5h)
 
 ##### Compute
 For this version, I used AutoGluon with extensive cloud compute research which is c2d 56vcpu 224 GB RAMs in Vertex AI Workbench TensorFlow Enterprise 2.11 (Intel® MKL-DNN/MKL) environment.
@@ -173,9 +173,9 @@ LB score: 0.86842, X_test validate:
 * Submission 5 - Version 5: | all dataset | +15 features | openfe package, selected 20 best features | 3.5h time limit - `best_quality` preset | compute: Vertex AI Workbench c2d 56vcpu 128gb
 
 ##### Notebooks
-Notebook of Submission 5 - Vertex AI: [FE + AutoGluon PS4E05 🦾🤖 5h](submission-5-autogluon-fe-openfe-3.5h-vertex-ai.ipynb)
+Notebook of Submission 5 - Vertex AI: [FE + openFe + AutoGluon PS4E05 🦾🤖 3.5h vertex ai](submission-5-autogluon-fe-openfe-3.5h-vertex-ai.ipynb)
 
-Notebook of Submission 5 - Kaggle: [FE + openFe + AutoGluon PS4E05 🦾🤖 3.5h](https://www.kaggle.com/code/mustafakeser4/fe-openfe-autogluon-ps4e05-3-5h)
+Notebook of Submission 5 - Kaggle: [FE + openFe + AutoGluon PS4E05 🦾🤖 3.5h kaggle](https://www.kaggle.com/code/mustafakeser4/fe-openfe-autogluon-ps4e05-3-5h)
 
 LB score: 0.86848, X_test validate:
 ```json
