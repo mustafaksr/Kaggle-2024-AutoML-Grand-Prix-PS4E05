@@ -220,7 +220,7 @@ Evaluation resulted on X_test:
 
 ### Compute Resources
 
-While training AutoGluon, I used very well and saturated compute resources.
+While training AutoGluon, it used very well and saturated compute resources.
 
 * CPU Utilization
 
