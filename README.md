@@ -1,6 +1,6 @@
 # Kaggle-2024 AutoML Grand Prix-PS4E05
 
-This repository contains codes and notebooks related to the PS4E05 stage of the Kaggle 2024 AutoML Grand Prix.
+This repository contains codes and notebooks related to the PS4E05 stage of the Kaggle [2024 AutoML Grand Prix](https://www.kaggle.com/automl-grand-prix).
 
 ## Dataset, Models, and Notebooks
 
