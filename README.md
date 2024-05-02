@@ -173,7 +173,7 @@ LB score: 0.86842, X_test validate:
 * Submission 5 - Version 5: | all dataset | +15 features | openfe package, selected 20 best features | 3.5h time limit - `best_quality` preset | compute: Vertex AI Workbench c2d 56vcpu 128gb
 
 ##### Notebooks
-Notebook of Submission 5 - Vertex AI: [FE + AutoGluon PS4E05 🦾🤖 5h](submission-4-autogluon-fe-5h.ipynb)
+Notebook of Submission 5 - Vertex AI: [FE + AutoGluon PS4E05 🦾🤖 5h](submission-5-autogluon-fe-openfe-3.5h-vertex-ai.ipynb)
 
 Notebook of Submission 5 - Kaggle: [FE + openFe + AutoGluon PS4E05 🦾🤖 3.5h](https://www.kaggle.com/code/mustafakeser4/fe-openfe-autogluon-ps4e05-3-5h)
 
