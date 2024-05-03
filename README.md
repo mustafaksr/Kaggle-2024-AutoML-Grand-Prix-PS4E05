@@ -235,7 +235,7 @@ While training AutoGluon, it used very well and saturated compute resources.
 2 days cost of google cloud vertex ai.
 
 
-| Date       | Service description | Service ID    | Discounts (₺) | Promotions and others (₺) | Cost (₺) | Conversion($) |
+| Date       | Service description | Service ID    | Discounts (₺) | Promotions and others (₺) | Cost (₺) | Conversion Cost ($) |
 |------------|---------------------|---------------|---------------|---------------------------|----------|---------------|
 | 2024-05-02 | Compute Engine      | 6F81-5844-456A| -1.62         | -23.21                    | 24.83    | 0.77          |
 | 2024-05-02 | Vertex AI           | C7E2-9256-1C43| 0             | -0.01                     | 0.01     | 0             |
