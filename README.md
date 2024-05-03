@@ -229,3 +229,30 @@ While training AutoGluon, it used very well and saturated compute resources.
 * CPU Usage vs. Reserved (vCPUs)
 
 ![CPU Usage vs. Reserved (vCPUs)](images/CPU_Usage_vs_Reserved.png)
+
+### Cost
+
+2 days cost of google cloud vertex ai.
+
+
+| Date       | Service description | Service ID    | Discounts (₺) | Promotions and others (₺) | Cost (₺) | Conversion($) |
+|------------|---------------------|---------------|---------------|---------------------------|----------|---------------|
+| 2024-05-02 | Compute Engine      | 6F81-5844-456A| -1.62         | -23.21                    | 24.83    | 0.77          |
+| 2024-05-02 | Vertex AI           | C7E2-9256-1C43| 0             | -0.01                     | 0.01     | 0             |
+| 2024-05-02 | Notebooks           | D73B-5EEA-8215| 0             | -2.45                     | 2.45     | 0.076         |
+| 2024-05-01 | Compute Engine      | 6F81-5844-456A| 0             | -646.05                   | 646.05   | 20.026        |
+| 2024-05-01 | Cloud Storage       | 95FF-2EF5-5EA1| 0             | -3.29                     | 3.29     | 0.102         |
+| 2024-05-01 | Vertex AI           | C7E2-9256-1C43| 0             | -0.01                     | 0.01     | 0             |
+| 2024-05-01 | Notebooks           | D73B-5EEA-8215| 0             | -68.61                    | 68.61    | 2.127         |
+|            |                |               |               |          Total                 | 745.25   | 23.101        |
+
+
+includes usages:
+
+| TYPE             | Name      | Size(GB) | vcpu | ram | hours |
+|------------------|-----------|----------|------|-----|-------|
+| VM               | c2d-56    | -        | 56   | 224 | 6.5   |
+| VM               | c2d-32    | -        | 32   | 128 | 2.75  |
+| VM               | n1-s4     | -        | 4    | 15  | 8     |
+| Persistent Disk  | Standard  | 100      | -    | -   | 24+  |
+| Persistent Disk  | Standard  | 100      | -    | -   | 24+  |
