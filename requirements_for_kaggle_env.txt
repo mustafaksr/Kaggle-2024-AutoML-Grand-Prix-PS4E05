@@ -274,7 +274,7 @@ wasabi==1.1.2
 watchfiles==0.21.0
 weasel==0.3.4
 websockets==12.0
-werkzeug==2.1.2
+werkzeug==3.0.3
 widgetsnbextension==4.0.10
 window-ops==0.0.15
 witwidget==1.8.1
